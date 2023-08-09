@@ -1,2 +1,2 @@
 # HRMS
- Human Resource Management System Using Java (Undergraduate Project 2019)
+ Human Resource Management System Using Java (2nd Project 2019)
